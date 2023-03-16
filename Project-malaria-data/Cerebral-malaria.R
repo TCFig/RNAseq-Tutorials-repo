@@ -8,7 +8,7 @@ library(pheatmap)
 library(RColorBrewer)
 
 # setting the working directory
-dir <- "RNAseq-Tutorials-repo/Project-malaria-data/Cerebral-malaria-data"
+dir <- "RNAseq-Tutorials-repo/Project-malaria-data/Cerebral-malaria-data/Testing_Pf_data"
 setwd(dir)
 list.files(dir)
 
