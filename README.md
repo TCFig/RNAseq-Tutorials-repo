@@ -1,9 +1,6 @@
 # RNAseq-Tutorials-repo
 On this repositiory I have all the code I have learned through online tutorials and videos.
 
-## RNA sequencing
-In the directory RNA-seq the code is from an online...
-
 ## DESeq2
 In the directory DESeq2 I have code for the tutorial "RNA-seq workflow: gene-level exploratory analysis and differential expression" by Love et al. 2019 - available through https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html#transcript-quantification-and-tximport-tximeta
 
